@@ -1,0 +1,43 @@
+## Wordpress uris - Avoid this on WP sites without IP whitelist.
+POST /wp-login.php
+/?author=
+POST /xmlrpc.php
+/sito/wp-includes
+wordpress/xmlrpc
+
+## Other requests
+/wso.php
+mstshash=
+GET /bag2
+POST /api/jsonws
+XDEBUG_SESSION_START
+/vendor/phpunit/
+services/LogService
+/_ignition
+/actuator/health
+libwww-perl/
+\x00\x0E8E
+SSTP_DUPLEX_POST
+.env
+app/invokefunction&function
+.ssh/id_rsa
+GponForm/diag_Form
+shell?cd+/tmp
+nmaplowercheck
+.well-known/security
+/thinkphp/
+\x16\x03\x01\x00
+curl/7
+HelloThinkCMF
+Autodiscover
+\xBA\xABd
+/cgi-bin/php
+pma_password
+jenkins/login
+application/configs
+elrekt.php
+/TP/html/
+solr/admin
+boaform/admin
+\xBA\xABd
+Cpanel-HTTP-Client

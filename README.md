@@ -1,4 +1,9 @@
-# phpss
+# phpss-data
+
+This repo maintains data for the phpss waf used to filter and cleanup junk traffic.
+
+
+
 
 URI Requests:
 Make sure to check all URI included in order to avoid blocking legit visitors

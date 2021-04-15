@@ -4,7 +4,6 @@ POST /wp-login.php
 POST /xmlrpc.php
 /sito/wp-includes
 wordpress/xmlrpc
-
 ## Other requests
 /wso.php
 mstshash=
@@ -39,7 +38,6 @@ elrekt.php
 /TP/html/
 solr/admin
 boaform/admin
-\xBA\xABd
 Cpanel-HTTP-Client
 /config/getuser
 /owa/auth/
@@ -98,7 +96,6 @@ x5Cthink
 /manager/html
 /manager/text
 ?pm_password
-GponForm/diag_Form
 \x03\x00\x00
 setup.cgi?next_file
 tmp/gpon
@@ -113,5 +110,12 @@ call_user_func_array
 \x00\x0E8\x82N
 /dns-query?dns=
 xC1d\xDB\x84
-SSTP_DUPLEX_POST
 mdocs-img-preview=wp-config.php
+/hudson
+actuator/health
+stream/live.php
+stalker_portal/c
+streaming/clients_live.php
+c/version.js
+/system_api.php
+cd+/tmp;rm+

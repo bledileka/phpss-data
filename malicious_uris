@@ -1,10 +1,8 @@
-## Wordpress uris - Avoid this on WP sites without IP whitelist.
 POST /wp-login.php
 /?author=
 POST /xmlrpc.php
 /sito/wp-includes
 wordpress/xmlrpc
-## Other requests
 /wso.php
 mstshash=
 GET /bag2
@@ -119,3 +117,33 @@ streaming/clients_live.php
 c/version.js
 /system_api.php
 cd+/tmp;rm+
+/HNAP1/
+portal/redlion
+/telescope/requests
+lv[endof]
+<php>die
+/wp-content/plugins/wp-file-manager/readme.txt
+/admin/info/system
+/jsonws/invoke
+/wp-includes/wlwmanifest.xml
+/xmlrpc.php?rsd
+/blog/wp-includes/wlwmanifest.xml
+/web/wp-includes/wlwmanifest.xml
+/wordpress/wp-includes/wlwmanifest.xml
+/website/wp-includes/wlwmanifest.xml
+/wp/wp-includes/wlwmanifest.xml
+/news/wp-includes/wlwmanifest.xml
+/2018/wp-includes/wlwmanifest.xml
+/2019/wp-includes/wlwmanifest.xml
+/shop/wp-includes/wlwmanifest.xml
+/wp1/wp-includes/wlwmanifest.xml
+/test/wp-includes/wlwmanifest.xml
+/media/wp-includes/wlwmanifest.xml
+/wp2/wp-includes/wlwmanifest.xml
+/site/wp-includes/wlwmanifest.xml
+/cms/wp-includes/wlwmanifest.xml
+/sito/wp-includes/wlwmanifest.xml
+/2020/wp-includes/wlwmanifest.xml
+/2021/wp-includes/wlwmanifest.xml
+Gh0st\xAD
+aaaabbbbccccdddd

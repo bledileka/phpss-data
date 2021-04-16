@@ -609,3 +609,4 @@ ZyBorg
 projectdiscovery/httpx
 curl/7
 Sogou web spider
+python-requests
